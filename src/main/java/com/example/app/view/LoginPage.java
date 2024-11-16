@@ -69,7 +69,7 @@ public class LoginPage extends JPanel {
         frameConstraints.gridx = 0;
         frameConstraints.gridy = 6;
         add(forgotPasswordButton, frameConstraints);
-        /*TODO: CONNECT BACKEND WORK*/
+        /*   TODO: CONNECT BACKEND WORK   */
 
         // SignUp Option
         JLabel signupLabel = new JLabel("Don't have an account?");
